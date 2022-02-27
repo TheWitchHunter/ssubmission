@@ -20,7 +20,7 @@ i thought that people are not intersted in reading a large content available on 
 
 # how to use this website?
 1. download all the files in a folder.
-2. open the file health_website  first.
+2. open the file health_website  first , it is the front page of website.
 3. here you find the main menu which contain some health issue and some problem.
     
 4. it contain (1).the health issue which you faced in your tour ,how to solve this issue.(2).the serious disease which you might faces and their solution .(3).information and solution about social health .(4).information and solution about social health 
